@@ -1,1 +1,16 @@
-obj/Debug/net9.0/BankingSystem.AssemblyInfoInputs.cache
+
+bin/
+obj/
+Debug/
+Release/
+
+net9.0/
+net8.0/
+net7.0/
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+.vs/
